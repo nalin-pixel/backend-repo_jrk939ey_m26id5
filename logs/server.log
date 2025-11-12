@@ -1,0 +1,28 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [158] using StatReload
+INFO:     Started server process [160]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:42732 - "GET /packages HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42748 - "GET /destinations HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42748 - "GET /packages HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42754 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:42732 - "POST /seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42748 - "POST /seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42732 - "GET /destinations HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42748 - "GET /packages HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42732 - "GET /destinations HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42748 - "GET /packages HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42762 - "POST /seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42762 - "POST /seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49200 - "GET /destinations HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42762 - "GET /packages HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49200 - "GET /destinations HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42762 - "GET /packages HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49200 - "POST /seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42762 - "POST /seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49200 - "GET /destinations HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42762 - "GET /packages HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49200 - "GET /packages HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42762 - "GET /destinations HTTP/1.1" 500 Internal Server Error
